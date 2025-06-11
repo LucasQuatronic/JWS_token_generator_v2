@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2k68hsuF5gw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LucasPijnackerHordij\\OneDrive - Quatronic\\Documents\\1. Quatronic\\7. Connekt en Topsector Logistiek\\10. Extensions\\JWS_token_generator_v2\\JWS_token_generator\\JWS_token_generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LucasPijnackerHordij\\.nuget\\packages\\outsystems.externallibraries.sdk\\1.4.0\\outsystems.externallibraries.sdk.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
